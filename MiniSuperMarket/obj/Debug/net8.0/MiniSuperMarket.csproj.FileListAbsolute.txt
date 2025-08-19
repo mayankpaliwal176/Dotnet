@@ -1,0 +1,14 @@
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\bin\Debug\net8.0\MiniSuperMarket.exe
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\bin\Debug\net8.0\MiniSuperMarket.deps.json
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\bin\Debug\net8.0\MiniSuperMarket.runtimeconfig.json
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\bin\Debug\net8.0\MiniSuperMarket.dll
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\bin\Debug\net8.0\MiniSuperMarket.pdb
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\MiniSuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\MiniSuperMarket.AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\MiniSuperMarket.AssemblyInfo.cs
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\MiniSuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\MiniSuperMarket.dll
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\refint\MiniSuperMarket.dll
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\MiniSuperMarket.pdb
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\MiniSuperMarket.genruntimeconfig.cache
+C:\Users\mayan\Desktop\dotnet\MiniSuperMarket\obj\Debug\net8.0\ref\MiniSuperMarket.dll
